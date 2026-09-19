@@ -1,0 +1,6 @@
+{
+  "title": "Example notification",
+  "body": "Synthetic test payload",
+  "token": "SYNTHETIC_DEVICE_TOKEN",
+  "data": {"type": "demo", "id": "123"}
+}
