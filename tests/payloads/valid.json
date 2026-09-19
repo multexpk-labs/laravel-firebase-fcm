@@ -1,0 +1,6 @@
+{
+  "title": "Synthetic notification",
+  "body": "Test only",
+  "token": "TEST_TOKEN",
+  "data": {"type": "test"}
+}
